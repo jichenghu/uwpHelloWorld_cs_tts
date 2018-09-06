@@ -1,0 +1,1 @@
+E:\teaching\windowsProgramming\codes\uwpHelloWorld_cs\uwpHelloWorld_cs\uwpHelloWorld_cs.csproj;x86
